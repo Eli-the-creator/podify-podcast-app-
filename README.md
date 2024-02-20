@@ -1,5 +1,5 @@
-### Podify - Your Ultimate Podcast Experience
-# Welcome to Podcastify, a React Native application that brings a unique and immersive podcast listening experience right to your fingertips. Imagine Spotify, but exclusively tailored for podcasts. With features ranging from OTP authentication to a robust audio player and playlist customization, Podcastify redefines how you enjoy your favorite podcasts.
+# Podify - Your Ultimate Podcast Experience
+### Welcome to Podcastify, a React Native application that brings a unique and immersive podcast listening experience right to your fingertips. Imagine Spotify, but exclusively tailored for podcasts. With features ranging from OTP authentication to a robust audio player and playlist customization, Podcastify redefines how you enjoy your favorite podcasts.
 
 # Features
 1. OTP Authentication
